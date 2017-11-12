@@ -1,0 +1,12 @@
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\bin\Debug\netcoreapp2.0\UsoAtividade.deps.json
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\bin\Debug\netcoreapp2.0\UsoAtividade.runtimeconfig.json
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\bin\Debug\netcoreapp2.0\UsoAtividade.runtimeconfig.dev.json
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\bin\Debug\netcoreapp2.0\UsoAtividade.dll
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\bin\Debug\netcoreapp2.0\UsoAtividade.pdb
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\bin\Debug\netcoreapp2.0\Atividade.dll
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\bin\Debug\netcoreapp2.0\Atividade.pdb
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\obj\Debug\netcoreapp2.0\UsoAtividade.csproj.CoreCompileInputs.cache
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\obj\Debug\netcoreapp2.0\UsoAtividade.AssemblyInfoInputs.cache
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\obj\Debug\netcoreapp2.0\UsoAtividade.AssemblyInfo.cs
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\obj\Debug\netcoreapp2.0\UsoAtividade.dll
+C:\Users\alander\CodeXP\SistemaEscola\UsoAtividade\obj\Debug\netcoreapp2.0\UsoAtividade.pdb

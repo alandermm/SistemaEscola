@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "UsoAtividade/1.0.0": {
+        "dependencies": {
+          "Atividade": "1.0.0"
+        },
+        "runtime": {
+          "UsoAtividade.dll": {}
+        }
+      },
+      "Atividade/1.0.0": {
+        "runtime": {
+          "Atividade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsoAtividade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Atividade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
