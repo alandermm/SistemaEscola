@@ -1,0 +1,8 @@
+C:\Users\alander\CodeXP\SistemaEscola\Atividade\obj\Debug\netstandard2.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\alander\CodeXP\SistemaEscola\Atividade\obj\Debug\netstandard2.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\alander\CodeXP\SistemaEscola\Atividade\obj\Debug\netstandard2.0\Atividade.AssemblyInfo.cs
+C:\Users\alander\CodeXP\SistemaEscola\Atividade\bin\Debug\netstandard2.0\Atividade.deps.json
+C:\Users\alander\CodeXP\SistemaEscola\Atividade\bin\Debug\netstandard2.0\Atividade.dll
+C:\Users\alander\CodeXP\SistemaEscola\Atividade\bin\Debug\netstandard2.0\Atividade.pdb
+C:\Users\alander\CodeXP\SistemaEscola\Atividade\obj\Debug\netstandard2.0\Atividade.dll
+C:\Users\alander\CodeXP\SistemaEscola\Atividade\obj\Debug\netstandard2.0\Atividade.pdb
